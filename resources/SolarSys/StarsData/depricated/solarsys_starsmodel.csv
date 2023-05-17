@@ -1,0 +1,15 @@
+﻿starId,starName,modelToUse,vert,frag,tesc,tese,qeom,modelFilePath
+0,Sun,1,star.vert,star.frag,NULL,NULL,NULL,SolarSys/3dModel/Sun/Sun.gltf
+1,Mercury,1,star.vert,star.frag,NULL,NULL,NULL,SolarSys/3dModel/Mercury/mercury.gltf
+2,Venus,1,star.vert,star.frag,NULL,NULL,NULL,SolarSys/3dModel/Venus/venus.gltf
+3,Earth,1,star.vert,star.frag,NULL,NULL,NULL,SolarSys/3dModel/Earth/EarthClouds.gltf
+4,Moon,1,star.vert,star.frag,NULL,NULL,NULL,SolarSys/3dModel/Moon/Moon.gltf
+5,Mars,1,star.vert,star.frag,NULL,NULL,NULL,SolarSys/3dModel/Mars/mars.gltf
+6,Phobos,1,star.vert,star.frag,NULL,NULL,NULL,SolarSys/3dModel/Phobos/phobos.gltf
+7,Deimos,1,star.vert,star.frag,NULL,NULL,NULL,SolarSys/3dModel/Deimos/deimos.gltf
+8,Ceres,1,star.vert,star.frag,NULL,NULL,NULL,SolarSys/3dModel/Ceres/Ceres.gltf
+9,Jupiter,1,star.vert,star.frag,NULL,NULL,NULL,SolarSys/3dModel/Jupiter/jupiter.gltf
+10,Saturn,1,star.vert,star.frag,NULL,NULL,NULL,SolarSys/3dModel/Saturn/Saturn.gltf
+11,Uranus,1,star.vert,star.frag,NULL,NULL,NULL,SolarSys/3dModel/Uranus/Uranus.gltf
+12,Neptune,1,star.vert,star.frag,NULL,NULL,NULL,SolarSys/3dModel/Neptune/neptune.gltf
+13,Pluto,1,star.vert,star.frag,NULL,NULL,NULL,SolarSys/3dModel/Pluto/Pluto.gltf

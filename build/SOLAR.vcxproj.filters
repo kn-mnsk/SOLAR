@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\main\main.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\mylibrary\mylibrary\SolarSys.cpp">
+      <Filter>MainSub</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\sub\animUtils.cpp">
+      <Filter>MainSub</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\sub\wcharUtil.cpp">
+      <Filter>MainSub</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\sub\winGlRender.cpp">
+      <Filter>MainSub</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\winLogs\Log.cpp">
+      <Filter>winLogs</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\main\framework.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\main\main.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\main\resource.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\main\stdafx.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\main\targetver.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\mylibrary\mylibrary\SolarSys.hpp">
+      <Filter>MainSub</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\sub\animUtils.h">
+      <Filter>MainSub</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\sub\stdafx.h">
+      <Filter>MainSub</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\sub\wcharUtil.h">
+      <Filter>MainSub</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\sub\winDialogForm.h">
+      <Filter>MainSub</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\sub\winGlCamera.h">
+      <Filter>MainSub</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\sub\winGlRender.h">
+      <Filter>MainSub</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\winOpenGL\wglext.h">
+      <Filter>winOpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\winOpenGL\winGlContext.h">
+      <Filter>winOpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\winOpenGL\winGlController.h">
+      <Filter>winOpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\winControls\baseWinController.h">
+      <Filter>winControls</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\winControls\baseWinForm.h">
+      <Filter>winControls</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\winControls\baseWindow.h">
+      <Filter>winControls</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\winControls\winDialogController.h">
+      <Filter>winControls</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\winControls\winMainController.h">
+      <Filter>winControls</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\winControls\winMouseController.h">
+      <Filter>winControls</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\winLogs\Log.h">
+      <Filter>winLogs</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\winLogs\logResource.h">
+      <Filter>winLogs</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\winLogs\stdafx.h">
+      <Filter>winLogs</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\main\main.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\main\small.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\shader\axes.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\shader\axes.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\shader\line.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\shader\line.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\shader\lines.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\shader\lines.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\shader\star.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\shader\star.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\shader\text.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\shader\text.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\shader\textquad.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\shader\textquad.vert">
+      <Filter>Shader</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\source\source\main\main.rc">
+      <Filter>Resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header">
+      <UniqueIdentifier>{AF4EE229-6C47-3140-BAF0-7ECA5CBFAB93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main">
+      <UniqueIdentifier>{D20E9586-BC36-3E34-B051-6A287844C051}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainSub">
+      <UniqueIdentifier>{6A80989F-C94B-37B9-8960-2175C2D30827}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource">
+      <UniqueIdentifier>{FAD861CC-7BA6-3B70-814D-8A538125D37C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shader">
+      <UniqueIdentifier>{42196330-2A27-314A-8B23-231C0AB839CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="winControls">
+      <UniqueIdentifier>{E42CC776-AA97-3060-8A95-5A92A030DA06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="winLogs">
+      <UniqueIdentifier>{53D8B32D-648E-3A35-B790-1D888348817E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="winOpenGL">
+      <UniqueIdentifier>{9B0D7ACF-D793-3B16-8932-6051331BA82B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

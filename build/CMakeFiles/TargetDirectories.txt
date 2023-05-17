@@ -1,0 +1,4 @@
+C:/Users/mnskk/Development/MyDvlpWindows/OpenGLWindow/SOLAR/build/CMakeFiles/staticGLAD.dir
+C:/Users/mnskk/Development/MyDvlpWindows/OpenGLWindow/SOLAR/build/CMakeFiles/SOLAR.dir
+C:/Users/mnskk/Development/MyDvlpWindows/OpenGLWindow/SOLAR/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/mnskk/Development/MyDvlpWindows/OpenGLWindow/SOLAR/build/CMakeFiles/ZERO_CHECK.dir

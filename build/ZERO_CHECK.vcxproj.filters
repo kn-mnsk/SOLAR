@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mnskk\Development\MyDvlpWindows\OpenGLWindow\SOLAR\build\CMakeFiles\1d5101bc628036f46d624c912c65346c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6971687F-7B16-3652-95C2-B0F0B08A3B15}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
